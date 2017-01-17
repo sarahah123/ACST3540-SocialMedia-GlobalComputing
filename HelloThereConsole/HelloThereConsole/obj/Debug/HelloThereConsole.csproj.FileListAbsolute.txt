@@ -1,0 +1,9 @@
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\bin\Debug\HelloThereConsole.exe.config
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\obj\Debug\HelloThereConsole.csprojResolveAssemblyReference.cache
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\bin\Debug\HelloThereConsole.exe
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\bin\Debug\HelloThereConsole.pdb
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\obj\Debug\HelloThereConsole.exe
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereConsole\HelloThereConsole\obj\Debug\HelloThereConsole.pdb
+C:\Users\shansber\Documents\GitHub\School-Work\ACST 3540\HelloThereConsole\HelloThereConsole\bin\Debug\HelloThereConsole.exe.config
+C:\Users\shansber\Documents\GitHub\School-Work\ACST 3540\HelloThereConsole\HelloThereConsole\obj\Debug\HelloThereConsole.exe
+C:\Users\shansber\Documents\GitHub\School-Work\ACST 3540\HelloThereConsole\HelloThereConsole\obj\Debug\HelloThereConsole.pdb

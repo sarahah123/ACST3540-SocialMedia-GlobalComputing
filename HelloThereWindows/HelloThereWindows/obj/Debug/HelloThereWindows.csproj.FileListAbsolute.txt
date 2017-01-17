@@ -1,0 +1,9 @@
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\bin\Debug\HelloThereWindows.exe.config
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\bin\Debug\HelloThereWindows.exe
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\bin\Debug\HelloThereWindows.pdb
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.csprojResolveAssemblyReference.cache
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.Form1.resources
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.Properties.Resources.resources
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.csproj.GenerateResource.Cache
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.exe
+C:\Users\shansber\Documents\GitHub\School-Work\HelloThereWindows\HelloThereWindows\obj\Debug\HelloThereWindows.pdb
