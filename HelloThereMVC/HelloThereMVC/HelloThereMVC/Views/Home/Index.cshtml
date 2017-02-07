@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+<p></p>
+
+<h2>@Html.Raw(ViewBag.Message)</h2>
+
+<p></p>
+@{ using (Html.BeginForm())
+    {
+
+        <div>
+            @Html.Label("What's your full name:")
+            @Html.TextBox("fullName")
+        </div>
+
+        <div>
+            @Html.Label("What's your favorite color: :")
+            @Html.TextBox("color")
+        </div>
+
+        <div>
+            @Html.DropDownList("ListItems", "--Select One--")
+        </div>
+
+        <div>
+            <input type="submit" value="submit" />
+        </div>
+
+    }
+}
