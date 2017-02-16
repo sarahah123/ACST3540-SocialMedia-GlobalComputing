@@ -4,13 +4,14 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using PetKennelDB.Models;
+using System.Net.Mail;
 
 /*
  * Course:          ACST 3540
  * Section:         01
  * Name:            Sarah Hansberry
  * Professor:       Shaw
- * Assignment #:    Lab 9
+ * Assignment #:    Lab 10
  */
 
 namespace PetKennelDB.Controllers
@@ -79,6 +80,20 @@ namespace PetKennelDB.Controllers
 
                 db.Pets.Add(p);
                 db.SaveChanges();
+
+                MailMessage message = new MailMessage();
+                message.From = new MailAddress("CaringStaff@petkennel.com");
+                message.To.Add(new MailAddress(p.OwnerEmail));
+                message.Subject = "Confirmation of Pet's Arrival";
+                message.Body = "Hello owner of " + p.Name + ",";
+                message.Body += Environment.NewLine + Environment.NewLine;
+                message.Body += "This is to confirm that your Pet has arrived! ";
+                message.Body += "Your pet is a " + p.AnimalType + " and your pet's age is " + p.Age + ".";
+
+                SmtpClient client = new SmtpClient();
+                client.Host = "208.73.222.114";
+                client.Port = 7301;
+                client.Send(message);
 
                 return RedirectToAction("List");
             }
